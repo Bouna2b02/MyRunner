@@ -1,2 +1,2 @@
 # MyRunner
-Un jeu où les joueurs pilotent un avion ou un autre véhicule aérien. Utilisez OpenGL pour réaliser des paysages réalistes, des effets météorologiques, et pour modéliser le véhicule et son comportement de vol.
+Un jeu où le joueur contrôle un personnage qui saute entre des plates-formes, évite des obstacles, et collecte des objets. Vous pouvez utiliser OpenGL pour créer des effets visuels intéressants, comme des transitions de lumière et des ombres dynamiques.
